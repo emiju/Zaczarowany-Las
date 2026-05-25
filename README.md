@@ -3,7 +3,7 @@
 ## Opis programu
 Projekt to tekstowa gra przygodowa napisana w języku Python. Gracz wciela się w bohatera, który musi przejść przez las, aby odnaleźć ukryty skarb. Podczas wędrówki musi uważać na poziom swojej energii, reagować na losowe zdarzenia oraz pilnować, aby nie wyjść poza granice bezpiecznego obszaru. 
 
-Projekt został przygotowany w ramach zaliczenia konkursu i spełnia wszystkie założenia symulacji w trybie tekstowym.
+Projekt został przygotowany w ramach konkursu i spełnia wszystkie założenia symulacji w trybie tekstowym.
 
 ## Wymagania
 * Zainstalowany Python w wersji 3.11 (zgodnie z wymaganiami zadania).
